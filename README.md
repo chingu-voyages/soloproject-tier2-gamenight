@@ -10,15 +10,12 @@ The solo projects are organized by Tier and requires skills that match the tier 
 
 There are many forms a 'Role playing game' can take.  For this adventure, the classic hero story, with a 'turn based battle' element will be the focus. 
 
-Older generation video games did not have fancy graphic engines to help facilitate battle scenes between the heros 
-of the stories and the villians.  Turn based battles have evolved over the years, but some of the ancient gamers of yore still have
-a special place in thier hearts for the turn based battle simulation. 
+Older generation video games did not have fancy graphic engines to help facilitate battle between the heros and the villians.  Turn based battles have evolved over the years, but some of the ancient gamers of yore still have a special place in thier hearts for the turn based battle simulation. 
 
 If you'd like to look up what kind of games used this method of story, leveling and battling, the most popular and longest running
 franchise to date might be one you are familiar with. It's name is Final Fantasy.   
 
-For this project you don't need to worry about creating the story, leveling or menu/inventory system. The goal is to recreate a rpg type simulator
-that the user can interact with and accomplish a win, or a lose depending on the outcome of the battle. 
+For this project you don't need to worry about creating the story, leveling or menu/inventory system. The goal is to recreate a rpg type turn based battle that the user can interact with and accomplish a win, or a lose depending on the outcome of the battle. 
 
 ## Tech Stacks
 
