@@ -42,45 +42,67 @@ deals damage to the players character. The enemies actions are also displayed on
  
 
 There needs to be at least three different rendered pages(or components) that appear as a user progresses through the game. 
-> 1) A home page, or start screen 
-> 2) A selection page, where a user selects the champion they would like to enter battle with
-> 3) The battle simulation screen
-> > a)battle simulation should display the enemy or monster image.
-> > b)battle simulation should also display the player image.
-> > c)Enemy and player health or hitpoints should be displayed at all times.
-> > d) information about the results of the users actions, and enemy actions should be displayed during the length of the battle.
-> > e) text results can fade away or be replaced, but make sure the user has time to see them.
-> 4) The results of the battle.  This can be displayed over the battle simulation. 
+Every page should be responsive, and fit correctly into a mobile sized screen, as well as desktop.
+
+1) A home page, or start screen 
+2) A selection page, where a user selects the champion they would like to enter battle with
+3) The battle simulation screen
+
+   >a)battle simulation should display the enemy or monster image.
+
+   >b)battle simulation should also display the player image.
+ 
+   >c)Enemy and player health or hitpoints should be displayed at all times.
+   
+   >d) information about the results of the users actions, and enemy actions should be displayed during the length of the battle.
+   
+   >e) text results can fade away or be replaced, but make sure the user has time to see them.
+   
+4) The results of the battle.  This can be displayed over the battle simulation. 
 
 ## User Interface
 
-[] User clicks a button or link that leads them to the selection page(component).  
+[] User clicks a button or link that leads them to the selection page(component). 
+
 [] In the selection page the user has at least three different characters to choose from. 
+
 [] Along with displaying a picture of the character, an informative text should appear and change to explain
 to the user what the characters special traits, abilities or skills are. 
+
 [] When the character is selected from the selection page, the user should be sent to the battle page(or component).
-[] In the battle page the user's turn should be first 
+
+[] In the battle page the user's turn should be first .
+
 [] The users character should have at least two abilities it can select against the enemy.
+
 >> for example:  fight and defend 
 
 [] Once a user has chosen an action, the results of this action should be carried out on the battle screen/page
+
 >> Hitpoints or health of the player and enemy should be impacted by both the players turn and the enemies turn
 >> text should display saying what the player chose to do, and what damage the player has inflicted
 >> on the enemies turn, the action of the enemy should be displayed and the damage the player recieves displayed
 >> Remember that the hit-points/health should reflect the damage done to both the player and the enemy at the end of the turn.
 
 []  A battle is won once the enemies hit points have been reduced to at or below 0. 
+
 []  A battle is lost once the players hit points have been reduced to at or below 0.
+
 >> Remeber to make it possible for the player to lose a battle, for example by defending multiple times, so that evaluators can see lost battle results as well as the win battle results. 
 
 ## Special Notes
-[] Data does not have to be stored between pages.  
+[] Data does not have to be stored between pages. 
+
 [] Refreshing can lead to the home (start game) page, or the same page the user is currently on.
+
 [] When creating the battle in code, using a random number within the scope of the player and enemies hit points is adventageous.
+
 
 ### Stretch (optional) goals
 [] Give each character a set of 'stats' that influence how the battle actions effect the outcome.
+
 [] Give the enemy and player dialog to say during thier turns in battle. 
+
 [] Give a visual indication of the player in the battle page to show that they are 'defending' or 'fighting'
 
 Let the adventure begin! 
