@@ -58,6 +58,10 @@ Every page should be responsive, and fit correctly into a mobile sized screen, a
 
 4) The battle simulation screen
 
+<p align="center">
+<img src="https://github.com/chingu-voyages/soloproject-tier2-gamenight/blob/main/assetsT2n3/battleScreen.JPG" height="300px" alt="the battle scene displays all the properties listed in the specifications, except the changing to the battle message." />
+ </p>
+
    >a)battle simulation should display the enemy or monster image.
 
    >b)battle simulation should also display the player image.
