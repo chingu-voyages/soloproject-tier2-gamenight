@@ -45,10 +45,18 @@ Every page should be responsive, and fit correctly into a mobile sized screen, a
 
 1) A home page, or start screen 
 
-<img src="https://github.com/chingu-voyages/soloproject-tier2-gamenight/blob/main/assetsT2n3/mobileFirst.JPG" height="200px" width="100px" align="center" alt="The Monster warrior title sits below a full width start button. An animated pixel bat sits below the curved title"/>
+<p align="center">
+<img src="https://github.com/chingu-voyages/soloproject-tier2-gamenight/blob/main/assetsT2n3/mobileFirst.JPG" height="300px" width="150px" align="center" alt="The Monster warrior title sits below a full width start button. An animated pixel bat sits below the curved title"/>
+</p>
 
-2) A selection page, where a user selects the champion they would like to enter battle with
-3) The battle simulation screen
+2) A selection page, where a user selects the champion they would like to enter battle with.
+
+<p align="center">
+<img src="https://github.com/chingu-voyages/soloproject-tier2-gamenight/blob/main/assetsT2n3/selection.JPG" align="center" alt="there are three sprite images, the knight, the mage, and the ranger.  With the mage hovered, it is enlarged and text appears below the mage image explaining the characters stats." />
+ </p>
+
+
+4) The battle simulation screen
 
    >a)battle simulation should display the enemy or monster image.
 
