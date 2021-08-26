@@ -8,6 +8,8 @@ The solo projects are organized by Tier and requires skills that match the tier 
 
 ## Goal: Make a turn based RPG
 
+
+
 There are many forms a 'Role playing game' can take.  For this adventure, the classic hero story, with a 'turn based battle' element will be the focus. 
 
 Older generation video games did not have fancy graphic engines to help facilitate battle between the heros and the villians.  Turn based battles have evolved over the years, but some of the ancient gamers of yore still have a special place in thier hearts for the turn based battle simulation. 
@@ -42,6 +44,9 @@ There needs to be at least three different rendered pages(or components) that ap
 Every page should be responsive, and fit correctly into a mobile sized screen, as well as desktop.
 
 1) A home page, or start screen 
+
+<img src="https://github.com/chingu-voyages/soloproject-tier2-gamenight/blob/main/assetsT2n3/mobileFirst.JPG" height="200px" width="100px" align="center" alt="The Monster warrior title sits below a full width start button. An animated pixel bat sits below the curved title"/>
+
 2) A selection page, where a user selects the champion they would like to enter battle with
 3) The battle simulation screen
 
