@@ -21,7 +21,7 @@ For this project you don't need to worry about creating the story, leveling or m
 
 ## Tech Stacks
 
-You can use any tech stack you choose. Frameworks and libraries are allowed. 
+You can use any tech stack you choose. A frontend framework is required. 
 
 Because graphics, and sprite/image creation is not everyones favorite hobby, there are sprites you can use in the assets folder of this repo.
 Feel free to create your own, but remember the goal is to create the functionality and user interface. 
